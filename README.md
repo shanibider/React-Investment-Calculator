@@ -195,8 +195,9 @@ This command will bundle the application using Vite, optimizing the output for p
 
 
 ## Screenshot 🖼️
+![investments clculator](https://github.com/shanibider/React-Investment-Calculator/assets/72359805/a7ea0875-041b-4ea8-ad0e-c4b38f72bddc)
 
-![investments clculator](https://github.com/shanibider/React-Investment-Calculator/assets/72359805/b5691df4-2389-4be3-a731-78dd05cf49d7)
+
 
 ---
 
