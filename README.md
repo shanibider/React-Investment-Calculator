@@ -4,26 +4,32 @@
 [![Javascript](https://img.shields.io/badge/JavaScript-★★★★★-orange)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 This project is a simple and efficient investment calculator built using **React** and **Vite**. <img height=25px src="https://skillicons.dev/icons?i=react"> <img height=25px src="https://skillicons.dev/icons?i=vite">
-<br> It demonstrates the power of modern web development tools to create fast and interactive web applications.
+<br> It focus on:
+- [x] Build, Configure & Combine Components.
+- [x] Manage Application State.
+- [x] Output List & Conditional Content.
+
+
+## Step by Step guide:
+1. Add components for displaying a `header`, fetching `user input` & outputting the `results table`.
+2. Fetch & store `user input` (i.e., the entered investment parameters)
+3. Derive investment results with `utility` function.
+4. Display investment results in a HTML table (`<table>, <thead>, <tbody> <tr>, <th>, <td>`).
+5. Conditionally display an info message if an invalid duration (<1) was entered.
+
 
 ## Tech Stack 💻
-This project use the following technologies:
-
+This project uses the following technologies:
 [![My Skills](https://skillicons.dev/icons?i=js,react,vite)](https://skillicons.dev)
-
 - [x] **React**: A JavaScript library for building user interfaces.
 - [x] **Vite**: A next-generation front-end tooling that focuses on speed and performance.
 
-The application consists of three main components:
+
+## Components 🧩
+The application is structured using the following main components:
 - [ ] `Header`
 - [ ] `UserInput`
 - [ ] `Results`
-
-
-
-## Components 🧩
-
-The application is structured using the following main components:
 
 ### 1. Header Component
 Located in `src/components/Header.jsx`, this component renders the title and a brief introduction to the application.
